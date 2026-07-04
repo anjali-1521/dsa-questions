@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anjali-1521/dsa-questions/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/anjali-1521/dsa-questions/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anjali-1521/dsa-questions/tree/master/0033-search-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/anjali-1521/dsa-questions/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/anjali-1521/dsa-questions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
