@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anjali-1521/dsa-questions/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anjali-1521/dsa-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,12 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anjali-1521/dsa-questions/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anjali-1521/dsa-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anjali-1521/dsa-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
