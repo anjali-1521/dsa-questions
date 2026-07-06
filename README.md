@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anjali-1521/dsa-questions/tree/master/0049-group-anagrams) |
+| [0344-reverse-string](https://github.com/anjali-1521/dsa-questions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +47,5 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/anjali-1521/dsa-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0344-reverse-string](https://github.com/anjali-1521/dsa-questions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
