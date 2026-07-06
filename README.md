@@ -19,6 +19,7 @@
 | [0049-group-anagrams](https://github.com/anjali-1521/dsa-questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/anjali-1521/dsa-questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anjali-1521/dsa-questions/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/anjali-1521/dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anjali-1521/dsa-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/anjali-1521/dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 | [0125-valid-palindrome](https://github.com/anjali-1521/dsa-questions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/anjali-1521/dsa-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/anjali-1521/dsa-questions/tree/master/0344-reverse-string) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/anjali-1521/dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
