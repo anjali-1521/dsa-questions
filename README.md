@@ -36,6 +36,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjali-1521/dsa-questions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anjali-1521/dsa-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/anjali-1521/dsa-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anjali-1521/dsa-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjali-1521/dsa-questions/tree/master/0232-implement-queue-using-stacks) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anjali-1521/dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -65,6 +66,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/anjali-1521/dsa-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anjali-1521/dsa-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjali-1521/dsa-questions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
