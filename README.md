@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anjali-1521/dsa-questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anjali-1521/dsa-questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/anjali-1521/dsa-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anjali-1521/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
@@ -33,6 +34,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anjali-1521/dsa-questions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anjali-1521/dsa-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/anjali-1521/dsa-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjali-1521/dsa-questions/tree/master/0232-implement-queue-using-stacks) |
