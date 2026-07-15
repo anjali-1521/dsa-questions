@@ -21,6 +21,7 @@
 | [0125-valid-palindrome](https://github.com/anjali-1521/dsa-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anjali-1521/dsa-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/anjali-1521/dsa-questions/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/anjali-1521/dsa-questions/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anjali-1521/dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
@@ -74,4 +75,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anjali-1521/dsa-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjali-1521/dsa-questions/tree/master/0232-implement-queue-using-stacks) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anjali-1521/dsa-questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
