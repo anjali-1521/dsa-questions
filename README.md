@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/anjali-1521/dsa-questions/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anjali-1521/dsa-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/anjali-1521/dsa-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anjali-1521/dsa-questions/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0225-implement-stack-using-queues](https://github.com/anjali-1521/dsa-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjali-1521/dsa-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/anjali-1521/dsa-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anjali-1521/dsa-questions/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anjali-1521/dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
@@ -86,4 +88,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anjali-1521/dsa-questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anjali-1521/dsa-questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
