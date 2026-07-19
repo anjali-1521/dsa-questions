@@ -8,11 +8,13 @@
 | [0048-rotate-image](https://github.com/anjali-1521/dsa-questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anjali-1521/dsa-questions/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anjali-1521/dsa-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/anjali-1521/dsa-questions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anjali-1521/dsa-questions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/anjali-1521/dsa-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/anjali-1521/dsa-questions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0155-min-stack](https://github.com/anjali-1521/dsa-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anjali-1521/dsa-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjali-1521/dsa-questions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/anjali-1521/dsa-questions/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anjali-1521/dsa-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
@@ -79,4 +82,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/anjali-1521/dsa-questions/tree/master/0796-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anjali-1521/dsa-questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
