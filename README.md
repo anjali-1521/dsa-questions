@@ -92,5 +92,6 @@
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/anjali-1521/dsa-questions/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anjali-1521/dsa-questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
